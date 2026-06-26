@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou Jonatan Filippi Severo! 👋
 
-<!--
-**ojoesevero/ojoesevero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista Sênior em TI com mais de 15 anos de experiência, focado em garantir a alta disponibilidade, eficiência operacional e governança de ambientes críticos.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas:
+- **Infraestrutura:** Windows Server, Linux (Admin & Troubleshooting), VMware, Redes (TCP/IP, Firewall).
+- **Automação & Scripting:** Python, PowerShell, JavaScript.
+- **Banco de Dados:** SQL Server, MySQL, PostgreSQL.
+- **Governança & Processos:** ITIL 4, COBIT 2019, Análise de Causa-Raiz (RCA).
+- **Cloud & Ferramentas:** Monitoramento (Zabbix, Grafana), GitHub, Versionamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim:
+Transformo desafios complexos de TI em soluções escaláveis e documentadas. Minha trajetória é marcada pela aplicação estratégica da tecnologia para otimizar processos e reduzir incidentes, sempre com foco em resultados de negócio.
+
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/jonatan-filippi-severo/)
+
+---
+*“Transformando tecnologia em soluções escaláveis.”*
