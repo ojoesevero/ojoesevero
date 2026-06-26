@@ -12,7 +12,7 @@ Especialista Sênior em TI com mais de 15 anos de experiência, focado em garant
 ### 🚀 Sobre mim:
 Transformo desafios complexos de TI em soluções escaláveis e documentadas. Minha trajetória é marcada pela aplicação estratégica da tecnologia para otimizar processos e reduzir incidentes, sempre com foco em resultados de negócio.
 
-- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/jonatan-filippi-severo/)
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/jonatanfsevero/)
 
 ---
 *“Transformando tecnologia em soluções escaláveis.”*
