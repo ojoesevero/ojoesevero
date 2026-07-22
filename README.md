@@ -1,18 +1,29 @@
-# Olá, sou Jonatan Filippi Severo! 👋
+### Olá, eu sou o Jonatan Severo (Joe)! 👋
 
-Especialista Sênior em TI com mais de 15 anos de experiência, focado em garantir a alta disponibilidade, eficiência operacional e governança de ambientes críticos.
-
-### 🛠 Tecnologias e Ferramentas:
-- **Infraestrutura:** Windows Server, Linux (Admin & Troubleshooting), VMware, Redes (TCP/IP, Firewall).
-- **Automação & Scripting:** Python, PowerShell, JavaScript.
-- **Banco de Dados:** SQL Server, MySQL, PostgreSQL.
-- **Governança & Processos:** ITIL 4, COBIT 2019, Análise de Causa-Raiz (RCA).
-- **Cloud & Ferramentas:** Monitoramento (Zabbix, Grafana), GitHub, Versionamento.
-
-### 🚀 Sobre mim:
-Transformo desafios complexos de TI em soluções escaláveis e documentadas. Minha trajetória é marcada pela aplicação estratégica da tecnologia para otimizar processos e reduzir incidentes, sempre com foco em resultados de negócio.
-
-- 📫 Como me encontrar:(LinkedIn) [www.linkedin.com/in/jonatanfsevero]
+Com mais de 15 anos de experiência em Tecnologia da Information, atuo como **Especialista em Infraestrutura e Operações**, focado em garantir a alta disponibilidade, eficiência e segurança de ambientes críticos de produção. Acredito na automação como pilar fundamental para escalar operações e eliminar tarefas repetitivas.
 
 ---
-*“Transformando tecnologia em soluções escaláveis.”*
+
+### 🚀 Stack Tecnológica & Habilidades
+
+* **Sistemas Operacionais:** Linux (RedHat, Debian, Ubuntu) & Windows Server
+* **Automação & Scripting:** Python, PowerShell, Ansible, JavaScript
+* **Banco de Dados & Gestão:** SQL Server, MySQL, PostgreSQL, Modelagem e Governança de Dados
+* **Ferramentas & Cloud:** Git, GitHub, Docker, Power Apps, Low-Code
+* **Governança & Processos:** ITIL 4, COBIT 2019, Análise de Causa-Raiz (RCA)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojoesevero&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoesevero&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+* **LinkedIn:** [Inserir seu link do LinkedIn]
+* **Localização:** Canoas, Rio Grande do Sul - Brasil
