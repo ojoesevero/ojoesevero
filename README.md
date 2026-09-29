@@ -50,7 +50,8 @@ Com mais de **15 anos de experiência em Tecnologia da Informação**, atuo no d
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ojoesevero" alt="Métricas do GitHub" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ojoesevero&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ojoesevero&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
