@@ -26,11 +26,31 @@ Com mais de **15 anos de experiência em Tecnologia da Informação**, atuo no d
 
 ---
 
+### 🚀 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/ojoesevero/VoiceScribe-AI">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ojoesevero&repo=VoiceScribe-AI&theme=tokyonight&hide_border=true" alt="VoiceScribe-AI" />
+  </a>
+  <a href="https://github.com/ojoesevero/gestao-despesas-corp">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ojoesevero&repo=gestao-despesas-corp&theme=tokyonight&hide_border=true" alt="gestao-despesas-corp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ojoesevero/mesclador-pdf">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ojoesevero&repo=mesclador-pdf&theme=tokyonight&hide_border=true" alt="mesclador-pdf" />
+  </a>
+  <a href="https://github.com/ojoesevero/dio-agent">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ojoesevero&repo=dio-agent&theme=tokyonight&hide_border=true" alt="dio-agent" />
+  </a>
+</p>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojoesevero&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoesevero&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://metrics.lecoq.io/ojoesevero" alt="Métricas do GitHub" />
 </p>
 
 ---
